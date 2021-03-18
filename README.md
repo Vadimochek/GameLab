@@ -10,4 +10,4 @@
 ![image](https://user-images.githubusercontent.com/56549726/111590737-8f7d3d00-87d7-11eb-9a9b-074b4e4c1319.png)
 
 Для начала игры необходимо запаковать проект и запустить.
-Краткое видео-описание:https://youtu.be/H1M6X5svv04
+Краткое видео-описание игры:https://youtu.be/H1M6X5svv04
